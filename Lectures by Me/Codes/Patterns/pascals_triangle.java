@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class pascals_triangle
 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
