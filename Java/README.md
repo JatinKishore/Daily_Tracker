@@ -1,0 +1,1 @@
+All the java files has the class file name <b>Main</b>.. The day_N.java is used to show daily java programs that I worked out in my codeClub.<br> So in order to run and check the files. Name the file name as <b>Main.java</b>
